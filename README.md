@@ -1,4 +1,5 @@
-###Molly Gribb
+# Meeting Minutes - Fall 2017 Advisory Board
+### Molly Gribb
 * New budiling approved in 2017-2019 budget - 55million
 * Automation and controls interstudy lab in the new building
 * Applied comp sci is a revenue generating program for UW-Platteville
@@ -6,10 +7,10 @@
 * Undergrad enrollment = 8500 students, 1100 ME, 163 Compsci, 191 SE, civil and env grew this year
 * By 2040 95% of labor force will be 60 or above. # of 18-64 year olds only up .4%
 
-###Stacia Stevenson
+### Stacia Stevenson
 * Raised 78k in 24 hours for day of giving
 
-###Lisa Landgraf
+### Lisa Landgraf
 * Gave Clifton / Scanlan scholarships last year for first time.
 * Possible cyber security masters program
 * Open for corporate ideas!
@@ -22,26 +23,26 @@
     * (general) - most companies are keeping interns on throughout the school year
     * John Deere - Fall recruiting session is most important, secound round interviews happen well before spring career fair...
 
-###Kelly Shea - The new Mary Jo!
+### Kelly Shea - The new Mary Jo!
 * Academic associate
 
-###Lily Chang
+### Lily Chang
 * teaching intro to SE
 * Looking for guest speakers to come talk
 
-###Tom Rapa
+### Tom Rapa
 * Health and Human services
 * Looking to improve the lives of Wisconsin people
 * Company has information on millions of people
 * Spam phone calls are noticably increasing.
 * Wants to bring security awareness to the forefront.
 
-###John Carlson
+### John Carlson
 * TDS
 * currently in a graduate program @ Boston University
 * Spectrum flipping the company as much as 75% in the past 10 years.
 
-###Jeff Runde
+### Jeff Runde
 * John Deere
 * Company is more stable now, business is doing well.
 * farms are having problems finding labor to operate their machines. Looking to automate more.
@@ -53,13 +54,13 @@
 * Looking for proposal for a grant in December
 * Cyber security seems to be a hot topic and a good ground for a new master program.
 
-###Mitch Iverson
+### Mitch Iverson
 * Avista / Esterline
 * Focus on Engineering services - Avionics, UAVs, Medical, Industrial, starting Maritime industry
 * Growing but having a hard time finding resources.
 * Looking for EE / ME engineers
 
-###Mark Turbo
+### Mark Turbo
 * Plexus Corp embedded systems
 * Security with 
 
@@ -68,7 +69,7 @@
 * IoT - how to connect and create value. 
 * Working with voice assist technology
 
-###Jeremy Kalsow
+### Jeremy Kalsow
 * Sr software engineer - Northwestern Mutual
 * Company totally flipped in the past year
 * No more waterfall, 100% agile', less business consultants, more engineers
@@ -81,11 +82,11 @@
 * Automate everything
 * Pushing to get more into clients lives through mobile and web instead of just paying money when they pass.
 
-###Alex Day
+### Alex Day
 * Epic - 10k employees - Medical Documentation Industry
 * Transitioning VB6 to .NET/JS/C#
 
-###Donna Gavin 
+### Donna Gavin 
 * Teaching Intro to programming (C++)
 * Involved in getting Girls who Code club
     * Integrate with girls in grades 6 to 12 - meet two hours a week
