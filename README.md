@@ -1,4 +1,5 @@
 # Meeting Minutes - Fall 2017 Advisory Board
+## Board Members and Guests
 ### Molly Gribb
 * New budiling approved in 2017-2019 budget - 55million
 * Automation and controls interstudy lab in the new building
@@ -64,7 +65,7 @@
 * Plexus Corp embedded systems
 * Security with 
 
-### Spectrum Brands
+### Eric Sioso? Spectrum Brands
 * R&D for home appliances and some personal care
 * IoT - how to connect and create value. 
 * Working with voice assist technology
@@ -92,4 +93,41 @@
     * Integrate with girls in grades 6 to 12 - meet two hours a week
     * Looking for sponsors, money, speakers, etc...
 
+## Bao Tian
+* Computer Science
+    * C++, VB, Computer Graphics
 
+## Anand Richard
+* First year at Platteville
+* Completed PHd in May
+* Teaching datacomm, networking, software quality
+* Has embedded systems background.
+
+
+## 3. CS and SE Annual Reports
+* ABET Accredidation - Lisa is training to be an ABET evaluator
+* No direct assessments in Comp Sci - just surveys.
+    * Process started to introduce a formal assessment to identify areas of improvement.
+* (Lily Chang) 
+    * ABET Accredidation
+        * Re-affirm the program educational objectives (PEO's)
+        * Outcomes are measured by 7 metrics
+        * Continuous Improvement triggers occur when assement is below 3.5 avg or any single result is a 1 in a 1 to 5 scale
+* PEO's were re-affirmed by John Carlson (First), Mitch Iverson (Second)
+* (Anand) - Recently bought all the Atlassian Products
+    * Students are using Agile
+    * Using Jira and Confluence
+* Slack channel was just made for Alumni
+* Comp Sci Assessment Report - Fall '16 to Spring '17
+    * 5 Triggers - partially due to retirements and turn over.
+    * The question "Implements software for a system" may be asked in the wrong class
+    * 74% and 61% Placement rate - but 15 students never responded...
+* No curriculum changes proposed for the upcoming year.
+
+
+### Game Development Group
+* Student Organized game development group 3 years ago
+* Popularity exploded
+* Using Agile 
+* Even new members are on the team 
+* Found freshmen needed help, Juniors/Seniors staffed the labs to help younger team members.
